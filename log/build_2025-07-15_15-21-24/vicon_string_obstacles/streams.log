@@ -1,0 +1,37 @@
+[0.388s] Invoking command in '/home/zoujoey/LSY_Projects/vicon_strings_ws/src/vicon_string_obstacles': CONDA_PROMPT_MODIFIER=(pr-env) PYTHONPATH=/home/zoujoey/LSY_Projects/vicon_strings_ws/build/vicon_string_obstacles/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/zoujoey/LSY_Projects/vicon_strings_ws/install/vicon_string_obstacles/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/vicon_string_obstacles build --build-base /home/zoujoey/LSY_Projects/vicon_strings_ws/build/vicon_string_obstacles/build install --record /home/zoujoey/LSY_Projects/vicon_strings_ws/build/vicon_string_obstacles/install.log --install-scripts $base/lib/vicon_string_obstacles --single-version-externally-managed install_data
+[0.489s] running egg_info
+[0.490s] creating ../../build/vicon_string_obstacles/vicon_string_obstacles.egg-info
+[0.490s] writing ../../build/vicon_string_obstacles/vicon_string_obstacles.egg-info/PKG-INFO
+[0.490s] writing dependency_links to ../../build/vicon_string_obstacles/vicon_string_obstacles.egg-info/dependency_links.txt
+[0.490s] writing entry points to ../../build/vicon_string_obstacles/vicon_string_obstacles.egg-info/entry_points.txt
+[0.490s] writing requirements to ../../build/vicon_string_obstacles/vicon_string_obstacles.egg-info/requires.txt
+[0.490s] writing top-level names to ../../build/vicon_string_obstacles/vicon_string_obstacles.egg-info/top_level.txt
+[0.492s] writing manifest file '../../build/vicon_string_obstacles/vicon_string_obstacles.egg-info/SOURCES.txt'
+[0.518s] reading manifest file '../../build/vicon_string_obstacles/vicon_string_obstacles.egg-info/SOURCES.txt'
+[0.518s] writing manifest file '../../build/vicon_string_obstacles/vicon_string_obstacles.egg-info/SOURCES.txt'
+[0.519s] running build
+[0.519s] running build_py
+[0.519s] creating /home/zoujoey/LSY_Projects/vicon_strings_ws/build/vicon_string_obstacles/build
+[0.519s] creating /home/zoujoey/LSY_Projects/vicon_strings_ws/build/vicon_string_obstacles/build/lib
+[0.520s] creating /home/zoujoey/LSY_Projects/vicon_strings_ws/build/vicon_string_obstacles/build/lib/vicon_string_obstacles
+[0.520s] copying vicon_string_obstacles/__init__.py -> /home/zoujoey/LSY_Projects/vicon_strings_ws/build/vicon_string_obstacles/build/lib/vicon_string_obstacles
+[0.520s] copying vicon_string_obstacles/vicon_listener.py -> /home/zoujoey/LSY_Projects/vicon_strings_ws/build/vicon_string_obstacles/build/lib/vicon_string_obstacles
+[0.520s] running install
+[0.521s] running install_lib
+[0.521s] creating /home/zoujoey/LSY_Projects/vicon_strings_ws/install/vicon_string_obstacles/lib/python3.8/site-packages/vicon_string_obstacles
+[0.521s] copying /home/zoujoey/LSY_Projects/vicon_strings_ws/build/vicon_string_obstacles/build/lib/vicon_string_obstacles/__init__.py -> /home/zoujoey/LSY_Projects/vicon_strings_ws/install/vicon_string_obstacles/lib/python3.8/site-packages/vicon_string_obstacles
+[0.522s] copying /home/zoujoey/LSY_Projects/vicon_strings_ws/build/vicon_string_obstacles/build/lib/vicon_string_obstacles/vicon_listener.py -> /home/zoujoey/LSY_Projects/vicon_strings_ws/install/vicon_string_obstacles/lib/python3.8/site-packages/vicon_string_obstacles
+[0.522s] byte-compiling /home/zoujoey/LSY_Projects/vicon_strings_ws/install/vicon_string_obstacles/lib/python3.8/site-packages/vicon_string_obstacles/__init__.py to __init__.cpython-38.pyc
+[0.523s] byte-compiling /home/zoujoey/LSY_Projects/vicon_strings_ws/install/vicon_string_obstacles/lib/python3.8/site-packages/vicon_string_obstacles/vicon_listener.py to vicon_listener.cpython-38.pyc
+[0.523s] running install_data
+[0.524s] creating /home/zoujoey/LSY_Projects/vicon_strings_ws/install/vicon_string_obstacles/share/ament_index
+[0.524s] creating /home/zoujoey/LSY_Projects/vicon_strings_ws/install/vicon_string_obstacles/share/ament_index/resource_index
+[0.524s] creating /home/zoujoey/LSY_Projects/vicon_strings_ws/install/vicon_string_obstacles/share/ament_index/resource_index/packages
+[0.524s] copying resource/vicon_string_obstacles -> /home/zoujoey/LSY_Projects/vicon_strings_ws/install/vicon_string_obstacles/share/ament_index/resource_index/packages
+[0.524s] copying package.xml -> /home/zoujoey/LSY_Projects/vicon_strings_ws/install/vicon_string_obstacles/share/vicon_string_obstacles
+[0.524s] running install_egg_info
+[0.526s] Copying ../../build/vicon_string_obstacles/vicon_string_obstacles.egg-info to /home/zoujoey/LSY_Projects/vicon_strings_ws/install/vicon_string_obstacles/lib/python3.8/site-packages/vicon_string_obstacles-0.0.0-py3.8.egg-info
+[0.527s] running install_scripts
+[0.542s] Installing vicon_listener script to /home/zoujoey/LSY_Projects/vicon_strings_ws/install/vicon_string_obstacles/lib/vicon_string_obstacles
+[0.542s] writing list of installed files to '/home/zoujoey/LSY_Projects/vicon_strings_ws/build/vicon_string_obstacles/install.log'
+[0.555s] Invoked command in '/home/zoujoey/LSY_Projects/vicon_strings_ws/src/vicon_string_obstacles' returned '0': CONDA_PROMPT_MODIFIER=(pr-env) PYTHONPATH=/home/zoujoey/LSY_Projects/vicon_strings_ws/build/vicon_string_obstacles/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/zoujoey/LSY_Projects/vicon_strings_ws/install/vicon_string_obstacles/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/vicon_string_obstacles build --build-base /home/zoujoey/LSY_Projects/vicon_strings_ws/build/vicon_string_obstacles/build install --record /home/zoujoey/LSY_Projects/vicon_strings_ws/build/vicon_string_obstacles/install.log --install-scripts $base/lib/vicon_string_obstacles --single-version-externally-managed install_data

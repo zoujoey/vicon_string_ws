@@ -1,0 +1,3 @@
+[console_scripts]
+vicon_listener = vicon_string_obstacles.vicon_listener:main
+
