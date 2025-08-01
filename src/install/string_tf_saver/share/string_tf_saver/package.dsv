@@ -1,0 +1,6 @@
+source;share/string_tf_saver/hook/pythonpath.ps1
+source;share/string_tf_saver/hook/pythonpath.dsv
+source;share/string_tf_saver/hook/pythonpath.sh
+source;share/string_tf_saver/hook/ament_prefix_path.ps1
+source;share/string_tf_saver/hook/ament_prefix_path.dsv
+source;share/string_tf_saver/hook/ament_prefix_path.sh

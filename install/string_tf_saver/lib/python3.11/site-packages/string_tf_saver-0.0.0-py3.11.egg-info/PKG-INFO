@@ -1,0 +1,13 @@
+Metadata-Version: 2.4
+Name: string_tf_saver
+Version: 0.0.0
+Summary: Save string11 and string12 tf positions to a YAML file.
+Maintainer: Your Name
+Maintainer-email: your@email.com
+License: MIT
+Requires-Dist: setuptools
+Dynamic: license
+Dynamic: maintainer
+Dynamic: maintainer-email
+Dynamic: requires-dist
+Dynamic: summary

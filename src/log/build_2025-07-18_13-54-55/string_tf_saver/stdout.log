@@ -1,0 +1,29 @@
+running egg_info
+creating ../build/string_tf_saver/string_tf_saver.egg-info
+writing ../build/string_tf_saver/string_tf_saver.egg-info/PKG-INFO
+writing dependency_links to ../build/string_tf_saver/string_tf_saver.egg-info/dependency_links.txt
+writing entry points to ../build/string_tf_saver/string_tf_saver.egg-info/entry_points.txt
+writing requirements to ../build/string_tf_saver/string_tf_saver.egg-info/requires.txt
+writing top-level names to ../build/string_tf_saver/string_tf_saver.egg-info/top_level.txt
+writing manifest file '../build/string_tf_saver/string_tf_saver.egg-info/SOURCES.txt'
+reading manifest file '../build/string_tf_saver/string_tf_saver.egg-info/SOURCES.txt'
+writing manifest file '../build/string_tf_saver/string_tf_saver.egg-info/SOURCES.txt'
+running build
+running build_py
+creating /home/benchmark/vicon_string_ws/src/build/string_tf_saver/build/lib/string_tf_saver
+copying string_tf_saver/save_string_positions.py -> /home/benchmark/vicon_string_ws/src/build/string_tf_saver/build/lib/string_tf_saver
+copying string_tf_saver/__init__.py -> /home/benchmark/vicon_string_ws/src/build/string_tf_saver/build/lib/string_tf_saver
+running install
+running install_lib
+creating /home/benchmark/vicon_string_ws/src/install/string_tf_saver/lib/python3.11/site-packages/string_tf_saver
+copying /home/benchmark/vicon_string_ws/src/build/string_tf_saver/build/lib/string_tf_saver/save_string_positions.py -> /home/benchmark/vicon_string_ws/src/install/string_tf_saver/lib/python3.11/site-packages/string_tf_saver
+copying /home/benchmark/vicon_string_ws/src/build/string_tf_saver/build/lib/string_tf_saver/__init__.py -> /home/benchmark/vicon_string_ws/src/install/string_tf_saver/lib/python3.11/site-packages/string_tf_saver
+byte-compiling /home/benchmark/vicon_string_ws/src/install/string_tf_saver/lib/python3.11/site-packages/string_tf_saver/save_string_positions.py to save_string_positions.cpython-311.pyc
+byte-compiling /home/benchmark/vicon_string_ws/src/install/string_tf_saver/lib/python3.11/site-packages/string_tf_saver/__init__.py to __init__.cpython-311.pyc
+running install_data
+copying package.xml -> /home/benchmark/vicon_string_ws/src/install/string_tf_saver/share/string_tf_saver
+running install_egg_info
+Copying ../build/string_tf_saver/string_tf_saver.egg-info to /home/benchmark/vicon_string_ws/src/install/string_tf_saver/lib/python3.11/site-packages/string_tf_saver-0.0.0-py3.11.egg-info
+running install_scripts
+Installing save_string_positions script to /home/benchmark/vicon_string_ws/src/install/string_tf_saver/lib/string_tf_saver
+writing list of installed files to '/home/benchmark/vicon_string_ws/src/build/string_tf_saver/install.log'

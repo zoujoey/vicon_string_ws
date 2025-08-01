@@ -1,0 +1,2 @@
+[console_scripts]
+save_string_positions = string_tf_saver.save_string_positions:main

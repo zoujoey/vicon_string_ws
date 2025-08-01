@@ -1,0 +1,33 @@
+[0.306s] Invoking command in '/home/benchmark/vicon_string_ws/src/string_tf_saver': CONDA_PROMPT_MODIFIER=(benchmark) PYTHONPATH=/home/benchmark/vicon_string_ws/build/string_tf_saver/prefix_override:/home/benchmark/.mamba/envs/benchmark/lib/python3.11/site-packages/colcon_core/task/python/colcon_distutils_commands:/home/benchmark/vicon_string_ws/install/string_tf_saver/lib/python3.11/site-packages:${PYTHONPATH} /home/benchmark/.mamba/envs/benchmark/bin/python3.11 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/string_tf_saver build --build-base /home/benchmark/vicon_string_ws/build/string_tf_saver/build install --record /home/benchmark/vicon_string_ws/build/string_tf_saver/install.log --single-version-externally-managed install_data
+[0.382s] /home/benchmark/.mamba/envs/benchmark/lib/python3.11/site-packages/setuptools/_distutils/dist.py:289: UserWarning: Unknown distribution option: 'tests_require'
+[0.382s]   warnings.warn(msg)
+[0.419s] running egg_info
+[0.424s] creating ../../build/string_tf_saver/string_tf_saver.egg-info
+[0.424s] writing ../../build/string_tf_saver/string_tf_saver.egg-info/PKG-INFO
+[0.424s] writing dependency_links to ../../build/string_tf_saver/string_tf_saver.egg-info/dependency_links.txt
+[0.425s] writing entry points to ../../build/string_tf_saver/string_tf_saver.egg-info/entry_points.txt
+[0.425s] writing requirements to ../../build/string_tf_saver/string_tf_saver.egg-info/requires.txt
+[0.425s] writing top-level names to ../../build/string_tf_saver/string_tf_saver.egg-info/top_level.txt
+[0.425s] writing manifest file '../../build/string_tf_saver/string_tf_saver.egg-info/SOURCES.txt'
+[0.437s] reading manifest file '../../build/string_tf_saver/string_tf_saver.egg-info/SOURCES.txt'
+[0.437s] writing manifest file '../../build/string_tf_saver/string_tf_saver.egg-info/SOURCES.txt'
+[0.437s] running build
+[0.437s] running build_py
+[0.437s] creating /home/benchmark/vicon_string_ws/build/string_tf_saver/build/lib/string_tf_saver
+[0.437s] copying string_tf_saver/save_string_positions.py -> /home/benchmark/vicon_string_ws/build/string_tf_saver/build/lib/string_tf_saver
+[0.437s] copying string_tf_saver/__init__.py -> /home/benchmark/vicon_string_ws/build/string_tf_saver/build/lib/string_tf_saver
+[0.437s] running install
+[0.440s] running install_lib
+[0.445s] creating /home/benchmark/vicon_string_ws/install/string_tf_saver/lib/python3.11/site-packages/string_tf_saver
+[0.446s] copying /home/benchmark/vicon_string_ws/build/string_tf_saver/build/lib/string_tf_saver/save_string_positions.py -> /home/benchmark/vicon_string_ws/install/string_tf_saver/lib/python3.11/site-packages/string_tf_saver
+[0.446s] copying /home/benchmark/vicon_string_ws/build/string_tf_saver/build/lib/string_tf_saver/__init__.py -> /home/benchmark/vicon_string_ws/install/string_tf_saver/lib/python3.11/site-packages/string_tf_saver
+[0.446s] byte-compiling /home/benchmark/vicon_string_ws/install/string_tf_saver/lib/python3.11/site-packages/string_tf_saver/save_string_positions.py to save_string_positions.cpython-311.pyc
+[0.446s] byte-compiling /home/benchmark/vicon_string_ws/install/string_tf_saver/lib/python3.11/site-packages/string_tf_saver/__init__.py to __init__.cpython-311.pyc
+[0.446s] running install_data
+[0.446s] copying package.xml -> /home/benchmark/vicon_string_ws/install/string_tf_saver/share/string_tf_saver
+[0.446s] running install_egg_info
+[0.453s] Copying ../../build/string_tf_saver/string_tf_saver.egg-info to /home/benchmark/vicon_string_ws/install/string_tf_saver/lib/python3.11/site-packages/string_tf_saver-0.0.0-py3.11.egg-info
+[0.453s] running install_scripts
+[0.491s] Installing save_string_positions script to /home/benchmark/vicon_string_ws/install/string_tf_saver/lib/string_tf_saver
+[0.491s] writing list of installed files to '/home/benchmark/vicon_string_ws/build/string_tf_saver/install.log'
+[0.502s] Invoked command in '/home/benchmark/vicon_string_ws/src/string_tf_saver' returned '0': CONDA_PROMPT_MODIFIER=(benchmark) PYTHONPATH=/home/benchmark/vicon_string_ws/build/string_tf_saver/prefix_override:/home/benchmark/.mamba/envs/benchmark/lib/python3.11/site-packages/colcon_core/task/python/colcon_distutils_commands:/home/benchmark/vicon_string_ws/install/string_tf_saver/lib/python3.11/site-packages:${PYTHONPATH} /home/benchmark/.mamba/envs/benchmark/bin/python3.11 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/string_tf_saver build --build-base /home/benchmark/vicon_string_ws/build/string_tf_saver/build install --record /home/benchmark/vicon_string_ws/build/string_tf_saver/install.log --single-version-externally-managed install_data
